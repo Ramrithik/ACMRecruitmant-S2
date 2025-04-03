@@ -9,3 +9,4 @@
 ### Finished "Check if an Array is Sorted"
 ![Alt](work/check_wheather_array_sorted.png)
 ### Finished "Remove Duplicates in-place from Sorted Array"
+![Alt](work/remove_duplicates_from_array.png)
