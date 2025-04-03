@@ -11,4 +11,4 @@
 ### Finished "Remove Duplicates in-place from Sorted Array"
 ![Alt](work/remove_duplicates_from_array.png)
 ### Finished "rotate an array by one"
-![Alt](
+![Alt](work/rotate_array_by_one.png)
