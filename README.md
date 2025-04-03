@@ -7,3 +7,4 @@
 ![Alt](work/find_largest_term_in_array.png)
 ![Alt](work/find_second_largest_term_in_array.png)
 ### Finished "Check if an Array is Sorted"
+![Alt](work/check_wheather_array_sorted.png)
