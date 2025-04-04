@@ -20,3 +20,4 @@
 ### i. z- score method
 ### ii .interquartile range
 ### iii. capping and clipping
+### Finished "move zeroes to end"
