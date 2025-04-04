@@ -16,7 +16,7 @@
 ![Alt](work/rotate_an_array_by_n_terms.png)
 ## started revising the theory topics 
 ## finished topics:
-1. like handling outliers
-i. z- score method
-ii .interquartile range
-iii. capping and clipping
+### 1. like handling outliers
+### i. z- score method
+### ii .interquartile range
+### iii. capping and clipping
