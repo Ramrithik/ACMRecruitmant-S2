@@ -12,3 +12,11 @@
 ![Alt](work/remove_duplicates_from_array.png)
 ### Finished "rotate an array by one"
 ![Alt](work/rotate_array_by_one.png)
+### Finished "rotate an array by n terms'
+![Alt](work/rotate_an_array_by_n_terms.png)
+## started revising the theory topics 
+## finished topics:
+1. like handling outliers
+i. z- score method
+ii .interquartile range
+iii. capping and clipping
