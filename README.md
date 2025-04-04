@@ -21,3 +21,4 @@
 ### ii .interquartile range
 ### iii. capping and clipping
 ### 7.Finished "move zeroes to end"
+![Alt](work/move_zeros.png)
