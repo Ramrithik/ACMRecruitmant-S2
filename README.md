@@ -22,3 +22,5 @@
 ### iii. capping and clipping
 ### 7.Finished "move zeroes to end"
 ![Alt](work/move_zeros.png)
+### 8. finished "Linear search"
+![Alt](work/linear_search.png)
