@@ -28,3 +28,5 @@
 ![Alt](work/Union_of_arrays.png)
 ### 10. Finished " finding the missing term"
 ![alt](work/finding_missing_number.png)
+### 11. Finished " finding the max conseutive ones"
+![Alt](work/find_max_conseutive_ones.png)
