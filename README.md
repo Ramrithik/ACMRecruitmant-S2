@@ -27,4 +27,4 @@
 ### 9. Finished "union of arrays"
 ![Alt](work/Union_of_arrays.png)
 ### 10. Finished " finding the missing term"
-![alt](work/finding_missing_term)
+![alt](work/finding_missing_term.png)
