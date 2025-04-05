@@ -24,3 +24,5 @@
 ![Alt](work/move_zeros.png)
 ### 8. finished "Linear search"
 ![Alt](work/linear_search.png)
+### 9. Finished "union of arrays"
+![Alt](work/Union_of_arrays.png)
