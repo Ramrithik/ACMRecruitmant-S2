@@ -31,4 +31,5 @@
 ### 11. Finished " finding the max conseutive ones"
 ![Alt](work/find_max_conseutive_ones.png)
 ### 12. Finished "find the number that appears once"
+![Alt](work/Single_number.png)
 
