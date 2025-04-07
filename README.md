@@ -33,5 +33,5 @@
 ### 12. Finished "find the number that appears once"
 ![Alt](work/Single_number.png)
 ### 13.Finished "Longest Subarray with given Sum K"
-![Alt](
+![Alt](work/Longest_Subarray_with_given_Sum_K.png)
 
