@@ -32,4 +32,6 @@
 ![Alt](work/find_max_conseutive_ones.png)
 ### 12. Finished "find the number that appears once"
 ![Alt](work/Single_number.png)
+### 13.Finished "Longest Subarray with given Sum K"
+![Alt](
 
