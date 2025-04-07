@@ -35,5 +35,5 @@
 ### 13.Finished "Longest Subarray with given Sum K"
 ![Alt](work/Longest_Subarray_with_given_Sum_K.png)
 ### 14.Finished "Longest_Subarray_with_sum_K _[Postives_and_Negatives]"
-![Alt](work/Longest_Subarray_with_sum_K_[Postives_and_Negatives].png)
+![Alt](work/Longest_Subarray_with_sum_T.png)
 
