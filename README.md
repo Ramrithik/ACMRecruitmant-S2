@@ -52,7 +52,7 @@
 ## ML assignment 
 ### completed Video Tutorials:
 
-### • StatQuest with Josh Starmer Linear         Regression
+#### • StatQuest with Josh Starmer Linear         Regression
 
-### • Codebasics – Gradient Descent Explained
+#### • Codebasics – Gradient Descent Explained
 
