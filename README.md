@@ -59,3 +59,4 @@
 #### • Linear Regression from Scratch (Python) - GeeksforGeeks
 
 #### • Medium: Implementing Gradient Descent in Python
+### started k-means algorithm 
