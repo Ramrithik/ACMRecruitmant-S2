@@ -55,4 +55,7 @@
 #### • StatQuest with Josh Starmer Linear         Regression
 
 #### • Codebasics – Gradient Descent Explained
+### completed coding
+####• Linear Regression from Scratch (Python) - GeeksforGeeks
 
+#### • Medium: Implementing Gradient Descent in Python
