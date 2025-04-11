@@ -39,5 +39,5 @@
 
 ## week 2
 ### Started Strivers A2Z sheet (Array - Medium)
-### Finished " Two Sum Problem"
-![Alt](
+### 1.Finished " Two Sum Problem"
+![Alt](work/2_sum_problem.png)
