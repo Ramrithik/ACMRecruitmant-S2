@@ -37,3 +37,7 @@
 ### 14.Finished "Longest_Subarray_with_sum_K _[Postives_and_Negatives]"
 ![Alt](work/Longest_Subarray_with_sum_T.png)
 
+## week 2
+### Started Strivers A2Z sheet (Array - Medium)
+### Finished " Two Sum Problem"
+![Alt](
