@@ -50,5 +50,9 @@
 ### 6.Finished "Stock_Buy_and_Sell"
 ![Alt](work/Stock_Buy_and_Sell.png)
 ## ML assignment 
+### completed Video Tutorials:
 
+### • StatQuest with Josh Starmer Linear         Regression
+
+### • Codebasics – Gradient Descent Explained
 
