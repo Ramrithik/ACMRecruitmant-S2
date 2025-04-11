@@ -47,6 +47,8 @@
 ![Alt](work/Majority_Element.png)
 ### 4.Finished "Kadane's Algorithm, maximum subarray sum"
 ![Alt](work/max_sub_array.png)
+### 6.Finished "Stock_Buy_and_Sell"
+![Alt](work/Stock_Buy_and_Sell.png)
 
 
 
