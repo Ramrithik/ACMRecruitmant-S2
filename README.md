@@ -45,4 +45,7 @@
 ![Alt](work/sort_an_array.png)
 ### 3.Finished "Majority_Element"
 ![Alt](work/Majority_Element.png)
+### 4.Finished "Kadane's Algorithm, maximum subarray sum"
+
+
 
