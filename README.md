@@ -43,3 +43,5 @@
 ![Alt](work/2_sum_problem.png)
 ### 2.Finished "Sort an array of 0's 1's and 2's"
 ![Alt](work/sort_an_array.png)
+### 3.Finished "Majority_Element"
+
