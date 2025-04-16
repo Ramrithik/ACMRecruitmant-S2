@@ -62,6 +62,10 @@
 ![Alt](work/Linear_reg(2).png)
 #### output
 ![Alt](work/Linear_reg_output.png)
-#### •  Implementing Gradient Descent in Python
-
+### •  Implementing Gradient Descent in Python
+#### code
+![Alt](work/gradient_descent(1).png)
+![Alt](work/gradient_descent(2).png)
+#### output
+![Alt](work/gradient_descent_output.png)
 ### started k-means algorithm 
