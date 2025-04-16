@@ -52,15 +52,16 @@
 ## ML assignment 
 ### completed Video Tutorials:
 
-#### • StatQuest with Josh Starmer Linear         Regression
+#### • StatQuest with Josh Starmer Linear Regression
 
 #### • Codebasics – Gradient Descent Explained
 ### completed coding
-#### • Linear Regression from Scratch (Python) - GeeksforGeeks
+### • Linear Regression from Scratch (Python) - GeeksforGeeks
 #### code 
 ![Alt](work/Linear_reg(1).png)
 ![Alt](work/Linear_reg(2).png)
 #### output
 ![Alt](work/Linear_reg_output.png)
-#### • Medium: Implementing Gradient Descent in Python
+#### •  Implementing Gradient Descent in Python
+
 ### started k-means algorithm 
