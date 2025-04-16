@@ -57,6 +57,8 @@
 #### • Codebasics – Gradient Descent Explained
 ### completed coding
 #### • Linear Regression from Scratch (Python) - GeeksforGeeks
+![Alt](work/Linear_reg(1).png)
+![Alt](work/Linear_reg(2).png)
 
 #### • Medium: Implementing Gradient Descent in Python
 ### started k-means algorithm 
