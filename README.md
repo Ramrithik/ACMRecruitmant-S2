@@ -69,3 +69,6 @@
 #### output
 ![Alt](work/gradient_descent_output.png)
 ### started k-means algorithm 
+![Alt](work/k-means(1).png)
+![Alt](work/k-means(2).png)
+![Alt](work/k-means_output.png)
