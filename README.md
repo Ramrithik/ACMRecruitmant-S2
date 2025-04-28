@@ -128,7 +128,7 @@ Group mall customers into clusters based on their annual income and spending sco
 
 ###  Workflow
 1. **Data Preprocessing**:  
-   - Selected `Annual Income (k$)` and `Spending Score (1-100)` for clustering.
+   - Selected Annual Income (k$) and Spending Score (1-100) for clustering.
 2. **EDA**:  
    - Scatter plot for initial distribution.
 3. **Model Building**:  
