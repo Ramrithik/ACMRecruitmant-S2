@@ -75,13 +75,9 @@
 #### output
 ![Alt](work/k-means_output.png)
 # Machine Learning Mini Projects
-
-This repository contains two Machine Learning projects implemented as part of Week 2 Implementation Task:
-
+ Week 2 Implementation Task:
 - [Titanic Survival Prediction (Supervised Learning)](#titanic-survival-prediction-supervised-learning)
 - [Customer Segmentation (Unsupervised Learning)](#customer-segmentation-unsupervised-learning)
-
----
 
 ## Titanic Survival Prediction (Supervised Learning)
 
