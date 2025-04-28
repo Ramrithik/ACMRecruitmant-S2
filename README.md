@@ -120,7 +120,7 @@ Group mall customers into clusters based on their annual income and spending sco
 ###  Dataset
 - Source: [Mall Customer Segmentation Dataset](https://raw.githubusercontent.com/shrikant-temburwar/Mall-Customer-Segmentation-Dataset/master/Mall_Customers.csv)
 
-### 🛠 Technologies Used
+### Technologies Used
 - Python
 - Pandas
 - Scikit-learn
