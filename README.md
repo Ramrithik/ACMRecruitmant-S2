@@ -144,10 +144,7 @@ Group mall customers into clusters based on their annual income and spending sco
 ##  How to Run
 
 ```bash
-# Install necessary libraries
 pip install pandas numpy matplotlib seaborn scikit-learn
-
-# Run the Python scripts
 python titanic_survival_prediction.py
 python customer_segmentation.py
 
