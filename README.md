@@ -118,7 +118,7 @@ Predict whether a passenger survived the Titanic shipwreck based on features suc
 Group mall customers into clusters based on their annual income and spending score.
 
 ###  Dataset
-- Source: [Mall Customer Segmentation Dataset](https://raw.githubusercontent.com/shrikant-temburwar/Mall-Customer-Segmentation-Dataset/master/Mall_Customers.csv)
+- Source: [Mall Customer Segmentation Dataset]("C:\Users\Raamrithik\Desktop\customer segmentation.csv")
 
 ### Technologies Used
 - Python
