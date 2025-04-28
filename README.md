@@ -74,3 +74,84 @@
 ![Alt](work/k-means(2).png)
 #### output
 ![Alt](work/k-means_output.png)
+# Machine Learning Mini Projects
+
+This repository contains two Machine Learning projects implemented as part of Week 2 Implementation Task:
+
+- [Titanic Survival Prediction (Supervised Learning)](#titanic-survival-prediction-supervised-learning)
+- [Customer Segmentation (Unsupervised Learning)](#customer-segmentation-unsupervised-learning)
+
+---
+
+## Titanic Survival Prediction (Supervised Learning)
+
+### Problem Statement
+Predict whether a passenger survived the Titanic shipwreck based on features such as age, gender, and class.
+
+###  Dataset
+- Source: [Titanic Dataset on GitHub](https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)
+
+###  Technologies Used
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+
+###  Workflow
+1. **Data Cleaning**:  
+   - Filled missing values for `Age` and `Embarked`.
+   - Dropped irrelevant columns like `Cabin`, `Ticket`, `Name`, and `PassengerId`.
+2. **Encoding**:  
+   - Label Encoding for `Sex` and `Embarked`.
+3. **EDA**:  
+   - Visualized survival distribution across genders.
+4. **Model Building**:  
+   - Decision Tree Classifier
+   - Random Forest Classifier
+5. **Evaluation**:  
+   - Accuracy Score
+   - Confusion Matrix
+
+###  Results
+- Random Forest outperformed Decision Tree.
+- Model accuracy > 80%.
+
+## Customer Segmentation (Unsupervised Learning)
+
+###  Problem Statement
+Group mall customers into clusters based on their annual income and spending score.
+
+###  Dataset
+- Source: [Mall Customer Segmentation Dataset](https://raw.githubusercontent.com/shrikant-temburwar/Mall-Customer-Segmentation-Dataset/master/Mall_Customers.csv)
+
+### 🛠 Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+###  Workflow
+1. **Data Preprocessing**:  
+   - Selected `Annual Income (k$)` and `Spending Score (1-100)` for clustering.
+2. **EDA**:  
+   - Scatter plot for initial distribution.
+3. **Model Building**:  
+   - K-Means Clustering
+   - Optimal clusters determined using Elbow Method (k=5).
+4. **Evaluation**:  
+   - Silhouette Score calculated.
+
+###  Results
+- Five distinct customer groups identified.
+- Visualized customer segments clearly.
+
+##  How to Run
+
+```bash
+# Install necessary libraries
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+# Run the Python scripts
+python titanic_survival_prediction.py
+python customer_segmentation.py
+
