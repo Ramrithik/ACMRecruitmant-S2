@@ -95,10 +95,10 @@ Predict whether a passenger survived the Titanic shipwreck based on features suc
 
 ###  Workflow
 1. **Data Cleaning**:  
-   - Filled missing values for `Age` and `Embarked`.
-   - Dropped irrelevant columns like `Cabin`, `Ticket`, `Name`, and `PassengerId`.
+   - Filled missing values for Age and Embarked.
+   - Dropped irrelevant columns like Cabin, Ticket, Name, and PassengerId.
 2. **Encoding**:  
-   - Label Encoding for `Sex` and `Embarked`.
+   - Label Encoding for Sex and Embarked.
 3. **EDA**:  
    - Visualized survival distribution across genders.
 4. **Model Building**:  
